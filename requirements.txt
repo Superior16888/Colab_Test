@@ -2,7 +2,7 @@ numpy==1.19.5
 #re==2.1.1
 pandas==1.1.5
 IPython==5.5.0
-json
+#json
 requests==2.23.0
 seaborn==0.11.2
 matplotlib==3.2.2
